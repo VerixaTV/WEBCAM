@@ -1,0 +1,417 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CAM1" tvg-name="Venezoila La Manga" tvg-logo="" group-title="Murcia",Venezoila La Manga
+https://webcam.lamanga.travel/hls/test.m3u8
+#EXTINF:-1 tvg-id="CAM2" tvg-name="Hotel Cavanna La Manga" tvg-logo="" group-title="Murcia",Hotel Cavanna La Manga
+https://lon.rtsp.me/GyFPylS7DMDh7zX66lHEAA/1721694939/hls/dGysFeYh.m3u8
+#EXTINF:-1 tvg-id="CAM3" tvg-name="Los Alcazares La Manga" tvg-logo="" group-title="Murcia",Los Alcazares La Manga
+https://lon.rtsp.me/hJJquxc6aN7cqxYr-6PTIg/1721694969/hls/snAtt87T.m3u8
+#EXTINF:-1 tvg-id="CAM4" tvg-name="Las Urrutias La Manga" tvg-logo="" group-title="Murcia",Las Urrutias La Manga
+https://lon.rtsp.me/o_ohg5yIkGmJ5U2Vs0rUTQ/1721695030/hls/2b6Y6Rte.m3u8
+#EXTINF:-1 tvg-id="CAM5" tvg-name="Hotel Doblemar La Manga" tvg-logo="" group-title="Murcia",Hotel Doblemar La Manga
+https://lon.rtsp.me/pNaxY9Nt-NSJfYla6Y8ujw/1721735613/hls/46nTHn4k.m3u8
+#EXTINF:-1 tvg-id="CAM6" tvg-name="Lo Pagan La Manga" tvg-logo="" group-title="Murcia",Lo Pagan La Manga
+https://lon.rtsp.me/i2usuCs0CzctqnXymHTMkw/1721735643/hls/HtQbZ5Zs.m3u8
+#EXTINF:-1 tvg-id="CAM61" tvg-name="Lima 1" tvg-logo="" group-title="Murcia",Lima 1
+https://lon.rtsp.me/81DdCBEqf0sS7uE32emnww/1728337973/hls/T55Ab8yT.m3u8
+#EXTINF:-1 tvg-id="CAM78" tvg-name="La Manga del Mar Menor Cartagena" tvg-logo="" group-title="Murcia",La Manga del Mar Menor Cartagena
+https://hd-auth.skylinewebcams.com/live.m3u8?a=jcu1r771464t7op8nhgna27fk4
+#EXTINF:-1 tvg-id="CAM10" tvg-name="A Coruña Fijo" tvg-logo="" group-title="Galicia",A Coruña Fijo
+https://www.crtvg.es:1554/hls/coruna/index.m3u8
+#EXTINF:-1 tvg-id="CAM11" tvg-name="A Coruña Movil" tvg-logo="" group-title="Galicia",A Coruña Movil
+https://www.crtvg.es:1554/hls/mcoruna/index.m3u8
+#EXTINF:-1 tvg-id="CAM12" tvg-name="A Cabana A Coruña" tvg-logo="" group-title="Galicia",A Cabana A Coruña
+https://wow.camaramar.com/camaramar/54_cabana.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM13" tvg-name="Balieros A Coruña" tvg-logo="" group-title="Galicia",Balieros A Coruña
+https://wow.camaramar.com/camaramar/38_balieiros.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM14" tvg-name="Caion Surf House A Coruña" tvg-logo="" group-title="Galicia",Caion Surf House A Coruña
+https://wow.camaramar.com/camaramar/44_caionsurfhouse.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM15" tvg-name="Camariñas A Coruña" tvg-logo="" group-title="Galicia",Camariñas A Coruña
+https://wow.camaramar.com/camaramar/37_camarinas.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM16" tvg-name="Carnota A Coruña" tvg-logo="" group-title="Galicia",Carnota A Coruña
+https://wow.camaramar.com/camaramar/33_carnota.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM17" tvg-name="Coroso A Coruña" tvg-logo="" group-title="Galicia",Coroso A Coruña
+https://wow.camaramar.com/camaramar/31_coroso.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM18" tvg-name="Valdoviño Lagoa A Coruña" tvg-logo="" group-title="Galicia",Valdoviño Lagoa A Coruña
+https://wow.camaramar.com/camaramar/58_valdolagoa.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM19" tvg-name="Muxia A Coruña" tvg-logo="" group-title="Galicia",Muxia A Coruña
+https://wow.camaramar.com/camaramar/34_muxia.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM20" tvg-name="Perbes A Coruña" tvg-logo="" group-title="Galicia",Perbes A Coruña
+https://wow.camaramar.com/camaramar/61_perbes.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM21" tvg-name="Playa Aguieira A Coruña" tvg-logo="" group-title="Galicia",Playa Aguieira A Coruña
+https://wow.camaramar.com/camaramar/3_aguieira.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM22" tvg-name="Playa de Bastiagueiro A Coruña" tvg-logo="" group-title="Galicia",Playa de Bastiagueiro A Coruña
+https://wow.camaramar.com/camaramar/17_bastiagueiro.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM23" tvg-name="Playa de Malpica A Coruña" tvg-logo="" group-title="Galicia",Playa de Malpica A Coruña
+https://wow.camaramar.com/camaramar/12_malpica.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM24" tvg-name="Playa de Mar de Fora A Coruña" tvg-logo="" group-title="Galicia",Playa de Mar de Fora A Coruña
+https://wow.camaramar.com/camaramar/6_finisterre.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM25" tvg-name="Playa de Pantin A Coruña" tvg-logo="" group-title="Galicia",Playa de Pantin A Coruña
+https://wow.camaramar.com/camaramar/20_pantin.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM26" tvg-name="Playa de Valdoviño A Coruña" tvg-logo="" group-title="Galicia",Playa de Valdoviño A Coruña
+https://wow.camaramar.com/camaramar/8_valdovino.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM27" tvg-name="Playa Ézaro A Coruña" tvg-logo="" group-title="Galicia",Playa Ézaro A Coruña
+https://wow.camaramar.com/camaramar/56_ezaro.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM28" tvg-name="Playa Furnas A Coruña" tvg-logo="" group-title="Galicia",Playa Furnas A Coruña
+https://wow.camaramar.com/camaramar/1_furnas.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM29" tvg-name="Playa Razo (Baldayo) A Coruña" tvg-logo="" group-title="Galicia",Playa Razo (Baldayo) A Coruña
+https://wow.camaramar.com/https://wow.camaramar.com/camaramar/5_razo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM30" tvg-name="Puerto de Finisterre A Coruña" tvg-logo="" group-title="Galicia",Puerto de Finisterre A Coruña
+https://wow.camaramar.com/camaramar/24_finisterre.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM31" tvg-name="Puerto Deportivo Marina Sada A Coruña" tvg-logo="" group-title="Galicia",Puerto Deportivo Marina Sada A Coruña
+https://wow.camaramar.com/camaramar/43_marinasada.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM32" tvg-name="Santa Cristina A Coruña" tvg-logo="" group-title="Galicia",Santa Cristina A Coruña
+https://wow.camaramar.com/camaramar/51_santacristina.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM33" tvg-name="Baldaio A Coruña" tvg-logo="" group-title="Galicia",Baldaio A Coruña
+https://wow.camaramar.com/camaramar/49_baldaio.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM34" tvg-name="Gandario A Coruña" tvg-logo="" group-title="Galicia",Gandario A Coruña
+https://wow.camaramar.com/camaramar/53_gandario.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM35" tvg-name="Penencia A Coruña" tvg-logo="" group-title="Galicia",Penencia A Coruña
+https://wow.camaramar.com/camaramar/campeonato.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM35" tvg-name="Puerto de Muros I A Coruña" tvg-logo="" group-title="Galicia",Puerto de Muros I A Coruña
+https://lon.rtsp.me/vxrIC3A8bLHmeru6dOKxvQ/1728220283/hls/2zi2kQiQ.m3u8
+#EXTINF:-1 tvg-id="CAM39" tvg-name="Vigo Movil" tvg-logo="" group-title="Galicia",Vigo Movil
+https://www.crtvg.es:1556/hls/mvigo/index.m3u8
+#EXTINF:-1 tvg-id="CAM40" tvg-name="Pontevedra" tvg-logo="" group-title="Galicia",Pontevedra
+https://www.crtvg.es:1556/hls/pontevedra/index.m3u8
+#EXTINF:-1 tvg-id="CAM41" tvg-name="Ferrol" tvg-logo="" group-title="Galicia",Ferrol
+https://www.crtvg.es:1554/hls/ferrol/index.m3u8
+#EXTINF:-1 tvg-id="CAM42" tvg-name="Ribadeo Puente de Los Santos" tvg-logo="" group-title="Galicia",Ribadeo Puente de Los Santos
+https://lon.rtsp.me/gfKFt-PX0ngHHlW9ODOsOg/1728249676/hls/TEsbennT.m3u8
+#EXTINF:-1 tvg-id="CAM43" tvg-name="Ribadeo Puerto de Ribadeo" tvg-logo="" group-title="Galicia",Ribadeo Puerto de Ribadeo
+https://lon.rtsp.me/y4iS9ix9wUEsk9b6eIN3_A/1728249772/hls/6QYaBsGS.m3u8
+#EXTINF:-1 tvg-id="CAM44" tvg-name="Puerto de Muros II Desde el hotel Do Porto" tvg-logo="" group-title="Galicia",Puerto de Muros II Desde el hotel Do Porto
+https://lon.rtsp.me/ZWHZEsspC9__DvTRR9RbfA/1728250018/hls/seZ6at56.m3u8
+#EXTINF:-1 tvg-id="CAM45" tvg-name="O Grove" tvg-logo="" group-title="Galicia",O Grove
+https://www.crtvg.es:1556/hls/ogrove/index.m3u8
+#EXTINF:-1 tvg-id="CAM46" tvg-name="Sanxenxo" tvg-logo="" group-title="Galicia",Sanxenxo
+https://www.crtvg.es:1556/hls/sanxenxo/index.m3u8
+#EXTINF:-1 tvg-id="CAM47" tvg-name="Playa de Silgar Sanxenxo" tvg-logo="" group-title="Galicia",Playa de Silgar Sanxenxo
+https://lon.rtsp.me/RyZiAz524ljr_N64Pskg8w/1728250401/hls/ZtENkk9Y.m3u8
+#EXTINF:-1 tvg-id="CAM48" tvg-name="Baiona" tvg-logo="" group-title="Galicia",Baiona
+https://www.crtvg.es:1556/hls/baiona/index.m3u8
+#EXTINF:-1 tvg-id="CAM36" tvg-name="Las Leñas Mendoza" tvg-logo="" group-title="Argentina",Las Leñas Mendoza
+https://tv.streamcasthd.com:3895/live/laslenaslive.m3u8
+#EXTINF:-1 tvg-id="CAM37" tvg-name="Cañon del Atuel Mendoza" tvg-logo="" group-title="Argentina",Cañon del Atuel Mendoza
+https://hd-auth.skylinewebcams.com/live.m3u8?a=fh9349d0g1ij2276co7vk78jl1
+#EXTINF:-1 tvg-id="CAM49" tvg-name="Playa de San Lorenzo La Escalerona Gijon" tvg-logo="" group-title="Asturias",Playa de San Lorenzo La Escalerona Gijon
+https://lon.rtsp.me/aUnT0oRWqEyDvbLMpTPuJA/1728250918/hls/8NEeNBRH.m3u8
+#EXTINF:-1 tvg-id="CAM50" tvg-name="Puerto Deportivo de Gijón Cuesta El Cholo" tvg-logo="" group-title="Asturias",Puerto Deportivo de Gijón Cuesta El Cholo
+https://lon.rtsp.me/3M-DY9-W9KNPl12Q3FFMEQ/1728251019/hls/ekY9K3Ra.m3u8
+#EXTINF:-1 tvg-id="CAM51" tvg-name="Ría de Avilés" tvg-logo="" group-title="Asturias",Ría de Avilés
+https://lon.rtsp.me/zIyyyAwKpEeyJbv0qcoKtg/1728251181/hls/3nBff9Yn.m3u8
+#EXTINF:-1 tvg-id="CAM52" tvg-name="Parque del muelle Ría de Avilés" tvg-logo="" group-title="Asturias",Parque del muelle Ría de Avilés
+https://lon.rtsp.me/nv_vMCwJR9d-_J2MM6KWDQ/1728251233/hls/SYfAkr64.m3u8
+#EXTINF:-1 tvg-id="CAM53" tvg-name="Playa de La Espasa Caravia" tvg-logo="" group-title="Asturias",Playa de La Espasa Caravia
+https://lon.rtsp.me/P_ZY8VAWx3YiW5973dBsVQ/1728251735/hls/5ByRFKFk.m3u8
+#EXTINF:-1 tvg-id="CAM54" tvg-name="Arenal de Morís Caravia" tvg-logo="" group-title="Asturias",Arenal de Morís Caravia
+https://lon.rtsp.me/513jisstM6oVCAUktmjtFg/1728251776/hls/Shy68RNk.m3u8
+#EXTINF:-1 tvg-id="CAM55" tvg-name="Playa de les Teyes en Morís Caravia" tvg-logo="" group-title="Asturias",Playa de les Teyes en Morís Caravia
+https://lon.rtsp.me/T9ZoOSYCorxnaOqZSR0-9g/1728251923/hls/3ZDHGQTd.m3u8
+#EXTINF:-1 tvg-id="CAM56" tvg-name="Playa de La Espasa II Caravia" tvg-logo="" group-title="Asturias",Playa de La Espasa II Caravia
+https://lon.rtsp.me/lFo0IILURpd_Nwo5rXmQHw/1728251967/hls/QY9k5E7a.m3u8
+#EXTINF:-1 tvg-id="CAM57" tvg-name="Playa de El Viso Caravia" tvg-logo="" group-title="Asturias",Playa de El Viso Caravia
+https://lon.rtsp.me/abRU2YDfPXxaTWftSOQ6Qg/1728252015/hls/2HD7EnyK.m3u8
+#EXTINF:-1 tvg-id="CAM58" tvg-name="Costa de Caravia Arenal de Morís Caravia" tvg-logo="" group-title="Asturias",Costa de Caravia Arenal de Morís Caravia
+https://lon.rtsp.me/zVUPKu5XEJMO1eNJAjh6mw/1728252076/hls/tAQ65BKB.m3u8
+#EXTINF:-1 tvg-id="CAM59" tvg-name="Playa de Salinas" tvg-logo="" group-title="Asturias",Playa de Salinas
+https://lon.rtsp.me/bhxqnuGnKgWiwwAJ3WP5DQ/1728337812/hls/Z8nGKR9k.m3u8
+#EXTINF:-1 tvg-id="CAM60" tvg-name="Playa de Xivares" tvg-logo="" group-title="Asturias",Playa de Xivares
+https://lon.rtsp.me/ms_7DuhIacWE6qlAO_o24Q/1728337913/hls/9QzGk2QD.m3u8
+#EXTINF:-1 tvg-id="CAM62" tvg-name="Playa de Penarronda" tvg-logo="" group-title="Asturias",Playa de Penarronda
+https://lon.rtsp.me/Yi86nbORh_VrRXD0nDOZgg/1728338062/hls/BrKdaEZT.m3u8
+#EXTINF:-1 tvg-id="CAM63" tvg-name="Playa de Arnelles Cabo San Agustín" tvg-logo="" group-title="Asturias",Playa de Arnelles Cabo San Agustín
+https://lon.rtsp.me/NU_gxr5pHUAXa2T3iKTSrg/1728338116/hls/sEkZEHEs.m3u8
+#EXTINF:-1 tvg-id="CAM64" tvg-name="Mirador de San Roque de Lastres" tvg-logo="" group-title="Asturias",Mirador de San Roque de Lastres
+https://lon.rtsp.me/R3chFlX9fFtu48c-A8_ecw/1728338183/hls/i9Ki4bYG.m3u8
+#EXTINF:-1 tvg-id="CAM65" tvg-name="Playa de la Concha de Artedo" tvg-logo="" group-title="Asturias",Playa de la Concha de Artedo
+https://lon.rtsp.me/qsGDc9W5e3gRLWgk38inHw/1728338351/hls/7ZD9SkQF.m3u8
+#EXTINF:-1 tvg-id="CAM66" tvg-name="Playa de Pormenande" tvg-logo="" group-title="Asturias",Playa de Pormenande
+https://lon.rtsp.me/uHGO0vX4-nh0l3yEKOSItQ/1728338460/hls/8rBfH3YK.m3u8
+#EXTINF:-1 tvg-id="CAM67" tvg-name="Playa de San Lorenzo El Tostaderu" tvg-logo="" group-title="Asturias",Playa de San Lorenzo El Tostaderu
+https://lon.rtsp.me/2WQaVGL1l4XHl0Td5bpKWQ/1728338537/hls/67Q26etY.m3u8
+#EXTINF:-1 tvg-id="CAM68" tvg-name="Playa de Andrín" tvg-logo="" group-title="Asturias",Playa de Andrín
+https://lon.rtsp.me/VHS0i-yq35DSXu1-PqfV_g/1728338640/hls/Q6EtfHKS.m3u8
+#EXTINF:-1 tvg-id="CAM69" tvg-name="MEO BEACHCAM" tvg-logo="" group-title="Portugal Nazare",MEO BEACHCAM
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM70" tvg-name="MEO BEACHCAM" tvg-logo="" group-title="Portugal Nazare",MEO BEACHCAM
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM71" tvg-name="MEO BEACHCAM" tvg-logo="" group-title="Portugal Nazare",MEO BEACHCAM
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM72" tvg-name="MEO BEACHCAM" tvg-logo="" group-title="Portugal Nazare",MEO BEACHCAM
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM73" tvg-name="MEO BEACHCAM" tvg-logo="" group-title="Portugal Nazare",MEO BEACHCAM
+https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM74" tvg-name="MEO BEACHCAM" tvg-logo="" group-title="Portugal Nazare",MEO BEACHCAM
+https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM75" tvg-name="Playa de la Fossa Calpe" tvg-logo="" group-title="Comunidad Valenciana (Comunitat Valenciana)",Playa de la Fossa Calpe
+https://streaming.comunitatvalenciana.com/webcam/CalpPlayaFoss/manifest.mpd
+#EXTINF:-1 tvg-id="CAM76" tvg-name="Club Nautico Calpe" tvg-logo="" group-title="Comunidad Valenciana (Comunitat Valenciana)",Club Nautico Calpe
+https://streaming.comunitatvalenciana.com/webcam/CalpeNautico/manifest.mpd
+#EXTINF:-1 tvg-id="CAM77" tvg-name="Solymar Calpe" tvg-logo="" group-title="Comunidad Valenciana (Comunitat Valenciana)",Solymar Calpe
+https://s4.ipcamlive.com/streams/04vfaky80uw5lqha7/stream.m3u8
+#EXTINF:-1 tvg-id="CAM78" tvg-name="Bayfront Park - Downtown Miami" tvg-logo="" group-title="Miami",Bayfront Park - Downtown Miami
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.ymswdhc.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM79" tvg-name="Double Tree - Biscayne Bay" tvg-logo="" group-title="Miami",Double Tree - Biscayne Bay
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.yeikdg8.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM80" tvg-name="Hilton Bentley Miami/South Beach" tvg-logo="" group-title="Miami",Hilton Bentley Miami/South Beach
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.byfvdg3.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM81" tvg-name="South Beach - W Hotel South Beach" tvg-logo="" group-title="Miami",South Beach - W Hotel South Beach
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.imgtdfj.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM82" tvg-name="Coconut Grove - Arya Hotel and Suites" tvg-logo="" group-title="Miami",Coconut Grove - Arya Hotel and Suites
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wjted3v.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM83" tvg-name="Lincoln Road - Miami Beach" tvg-logo="" group-title="Miami",Lincoln Road - Miami Beach
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.xqyudd1.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM84" tvg-name="Ocean Drive - Miami Beach" tvg-logo="" group-title="Miami",Ocean Drive - Miami Beach
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.nsitdh2.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM85" tvg-name="Aqualina Sunny Isles" tvg-logo="" group-title="Miami",Aqualina Sunny Isles
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.zrwodek.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM86" tvg-name="Sunny Isles Beach - Newport Pier South View" tvg-logo="" group-title="Miami",Sunny Isles Beach - Newport Pier South View
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wyscerq.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM87" tvg-name="Historic Virginia Key Beach Park Camera" tvg-logo="" group-title="Miami",Historic Virginia Key Beach Park Camera
+https://usw01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.edqkd95.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM88" tvg-name="Little Havana, Calle Ocho" tvg-logo="" group-title="Miami",Little Havana, Calle Ocho
+https://use01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.iznoefs.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM89" tvg-name="Wynwood Walls" tvg-logo="" group-title="Miami",Wynwood Walls
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.bmqtehq.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM90" tvg-name="Sunny Isles Beach - Newport Pier North View" tvg-logo="" group-title="Miami",Sunny Isles Beach - Newport Pier North View
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.drwger6.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM91" tvg-name="Eden Roc Miami Beach & Nobu Hotel Miami Beach" tvg-logo="" group-title="Miami",Eden Roc Miami Beach & Nobu Hotel Miami Beach
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.gclhevr.fd0.sm1.av2.mt0.at0.as0.dv1.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8?dvr
+#EXTINF:-1 tvg-id="CAM92" tvg-name="Miami Port" tvg-logo="" group-title="Miami",Miami Port
+https://cdn77.ptztv.live/jywXIDJyWRgtU7-eJi3-CQ==,1755277951/cdnorigin/pmw1mux.stream/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="CAM93" tvg-name="Miami Airport" tvg-logo="" group-title="Miami",Miami Airport
+https://cdn77.ptztv.live/p0sCz8YFmSHP6dQAXT1gCw==,1755278649/cdnorigin/macmux.stream/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="CAM94" tvg-name="LAX Airport" tvg-logo="" group-title="Los Angeles",Los aAngeles LAX Airport
+https://wms-prod-3.wetmet.net/live/281-03-01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI1IDExOjI4OjEyIEFNJmhhc2hfdmFsdWU9aXF5Z0tNc2NUTExreHVWd3AyeW5DZz09JnZhbGlkbWludXRlcz0zMA==
+#EXTINF:-1 tvg-id="CAM95" tvg-name="Hermosa Beach Pier South" tvg-logo="" group-title="Los Angeles",Hermosa Beach Pier South Live Webcam
+https://live.hdontap.com/hls/hosb6/swellmagnet_hermosa-fixed_south.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM96" tvg-name="Hermosa Beach Pier North" tvg-logo="" group-title="Los Angeles",Hermosa Beach Pier North
+https://live.hdontap.com/hls/hosb3/swellmagnet_hermosa-fixed_north.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM97" tvg-name="Hermosa Beach South" tvg-logo="" group-title="Los Angeles",Hermosa Beach South
+https://live.hdontap.com/hls/hosb3/swellmagnet_hermosa_south-ptz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM98" tvg-name="Malibu Beach Inn" tvg-logo="" group-title="Los Angeles",Malibu Beach Inn
+https://hls.cdn-surfline.com/oregon/wc-malibuov/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM99" tvg-name="See the Wheel @ Pacific Park!" tvg-logo="" group-title="Los Angeles",See the Wheel @ Pacific Park!
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.kcajbp1.fd0.sm1.av2.mt1.at0.as0.dv0.sh2.rt23850.rc0.edge.vpass.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM100" tvg-name="View the Park @ Pacific Park" tvg-logo="" group-title="Los Angeles",View the Park @ Pacific Park
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.kwpxbpv.fd0.sm1.av2.mt1.at0.as0.dv0.sh2.rt23850.rc0.edge.vpass.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM101" tvg-name="Venice Beach" tvg-logo="" group-title="Los Angeles",Venice Beach
+https://5ddd47d64e730.streamlock.net:444/westland/westland.stream/main_playlist.m3u8
+#EXTINF:-1 tvg-id="CAM102" tvg-name="VENICE BREAKWATER" tvg-logo="" group-title="Los Angeles",VENICE BREAKWATER
+https://live.hdontap.com/hls/hosb1/venice_swellmagnet.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM103" tvg-name="El Porto - Manhattan Beach" tvg-logo="" group-title="Los Angeles",El Porto - Manhattan Beach
+https://live.hdontap.com/hls/hosb3/swellmagnet_elporto_strand-static.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM104" tvg-name="Hermosa Beach Pier South" tvg-logo="" group-title="Los Angeles",Hermosa Beach Pier South
+https://live.hdontap.com/hls/hosb6/swellmagnet_hermosa-fixed_south.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM105" tvg-name="Long Beach Harbor" tvg-logo="" group-title="Los Angeles",Long Beach Harbor
+https://live.hdontap.com/hls/hosb1/hdontap_lgbharbor_fixed.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM106" tvg-name="Huntington Beach Pier" tvg-logo="" group-title="Los Angeles",Huntington Beach Pier
+https://live.hdontap.com/hls/hosb3/waterfront_swellmagnet.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM107" tvg-name="The Ranch" tvg-logo="" group-title="Los Angeles",The Ranch
+https://hls.cdn-surfline.com/oregon/wc-alisocreekbeach/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM108" tvg-name="La Perla" tvg-logo="" group-title="Mar De Plata",La Perla
+https://video2.estadodelmar.com.ar/mobile/laperla/index.m3u8
+#EXTINF:-1 tvg-id="CAM109" tvg-name="La Pepita" tvg-logo="" group-title="Mar De Plata",La Pepita
+https://video2.estadodelmar.com.ar/mobile/PEPITA/index.m3u8
+#EXTINF:-1 tvg-id="CAM110" tvg-name="El Torreón-H.Guerrero" tvg-logo="" group-title="Mar De Plata",El Torreón-H.Guerrero
+https://video5.estadodelmar.com.ar/mobile/TORREON/index.m3u8
+#EXTINF:-1 tvg-id="CAM111" tvg-name="Torreón del Monje" tvg-logo="" group-title="Mar De Plata",Torreón del Monje
+https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
+#EXTINF:-1 tvg-id="CAM112" tvg-name="Mariano" tvg-logo="" group-title="Mar De Plata",Mariano
+https://video2.estadodelmar.com.ar/mobile/MARIANO/index.m3u8
+#EXTINF:-1 tvg-id="CAM113" tvg-name="Alicante" tvg-logo="" group-title="Mar De Plata",Alicante
+https://video5.estadodelmar.com.ar/mobile/ALICANTE/index.m3u8
+#EXTINF:-1 tvg-id="CAM114" tvg-name="La Perla" tvg-logo="" group-title="Mar De Plata",La Perla
+https://video2.estadodelmar.com.ar/mobile/laperla/index.m3u8
+#EXTINF:-1 tvg-id="CAM115" tvg-name="Hotel Guerrero" tvg-logo="" group-title="Mar De Plata",Hotel Guerrero
+https://video.estadodelmar.com.ar/mobile/hguerrero2/index.m3u8
+#EXTINF:-1 tvg-id="CAM116" tvg-name="Torreón del Monje" tvg-logo="" group-title="Mar De Plata",Torreón del Monje
+https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
+#EXTINF:-1 tvg-id="CAM117" tvg-name="Waikiki Club de Surf" tvg-logo="" group-title="Mar De Plata",Waikiki Club de Surf
+https://video2.estadodelmar.com.ar/mobile/WAIKi2/index.m3u8
+#EXTINF:-1 tvg-id="CAM118" tvg-name="La Nativa" tvg-logo="" group-title="Mar De Plata",La Nativa
+https://video5.estadodelmar.com.ar/mobile/NATIVA/index.m3u8
+#EXTINF:-1 tvg-id="CAM119" tvg-name="Playa Pura Vida" tvg-logo="" group-title="Mar De Plata",Playa Pura Vida
+https://video.estadodelmar.com.ar/mobile/puravida/index.m3u8
+#EXTINF:-1 tvg-id="CAM120" tvg-name="Playa del Bajondillo" tvg-logo="" group-title="Torremolinos",Playa del Bajondillo
+https://webcam.meteo365.es/hls_live/torreplaya.m3u8
+#EXTINF:-1 tvg-id="CAM121" tvg-name="Tarifa - Playa de Los Lances" tvg-logo="" group-title="Cadiz",Tarifa - Playa de Los Lances
+https://webcam.meteo365.es/hls_live/tarifa.m3u8
+#EXTINF:-1 tvg-id="CAM122" tvg-name="Tarifa - Playa de Los Lances 2" tvg-logo="" group-title="Cadiz",Tarifa - Playa de Los Lances 2
+https://webcam.meteo365.es/hls_live/tarifasurfer.m3u8
+#EXTINF:-1 tvg-id="CAM123" tvg-name="Cala Llenguadets" tvg-logo="" group-title="Tarragona",Cala Llenguadets
+https://5940924978228.streamlock.net/8107/8107/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM124" tvg-name="Platja Llarga" tvg-logo="" group-title="Tarragona",Platja Llarga
+https://5940924978228.streamlock.net/8113/8113/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM125" tvg-name="Punta Prima" tvg-logo="" group-title="Tarragona",Punta Prima
+https://5940924978228.streamlock.net/8115/8115/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM126" tvg-name="Muelle de Levante" tvg-logo="" group-title="Malaga",Muelle de Levante
+https://livecams.meteo365.es/hls_live/puerto_eins.m3u8
+#EXTINF:-1 tvg-id="CAM127" tvg-name="Muelle 1" tvg-logo="" group-title="Malaga",Muelle 1
+https://livecams.meteo365.es/hls_live/puerto_zwei.m3u8
+#EXTINF:-1 tvg-id="CAM128" tvg-name="Muelle 1 y 2" tvg-logo="" group-title="Malaga",Muelle 1 y 2
+https://livecams.meteo365.es/hls_live/puerto_drei.m3u8
+#EXTINF:-1 tvg-id="CAM129" tvg-name="Playa La Malagueta" tvg-logo="" group-title="Malaga",Playa La Malagueta
+https://webcam.meteo365.es/hls_live/playa.m3u8
+#EXTINF:-1 tvg-id="CAM130" tvg-name="Playa La Malagueta y Puerto de Málaga" tvg-logo="" group-title="Malaga",Playa La Malagueta y Puerto de Málaga
+https://livecam.meteo365.es/hls_live/puerto.m3u8
+#EXTINF:-1 tvg-id="CAM131" tvg-name="Playa La Misericordia" tvg-logo="" group-title="Malaga",Playa La Misericordia
+https://webcam.meteo365.es/hls_live/misericordia.m3u8
+#EXTINF:-1 tvg-id="CAM132" tvg-name="La Alcazaba" tvg-logo="" group-title="Malaga",La Alcazaba
+https://webcam.meteo365.es/hls_live/alcazaba.m3u8
+#EXTINF:-1 tvg-id="CAM133" tvg-name="Alameda Principal & Calle Marques de Larios" tvg-logo="" group-title="Malaga",Alameda Principal & Calle Marques de Larios
+https://webcam.meteo365.es/hls_live/alameda.m3u8
+#EXTINF:-1 tvg-id="CAM134" tvg-name="Puerto El Candado" tvg-logo="" group-title="Malaga",Puerto El Candado
+https://rccwebcamnavitech.zapto.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CAM135" tvg-name="Paseo Maritimo de Torre del Maz" tvg-logo="" group-title="Malaga",Paseo Maritimo de Torre del Mar
+https://s61.ipcamlive.com/streams/3dfdugjvsqczwpoip/stream.m3u8
+#EXTINF:-1 tvg-id="CAM136" tvg-name="San Javier (Lima 1)" tvg-logo="" group-title="Murcia",San Javier (Lima 1)
+https://lon.rtsp.me/mcrHtsyOcG1HUrWgmy039Q/1755283859/hls/T55Ab8yT.m3u8
+#EXTINF:-1 tvg-id="CAM137" tvg-name="Villananitos - Lo pagan" tvg-logo="" group-title="Murcia",Villananitos - Lo pagan
+https://lon.rtsp.me/4FrcMW9rW4eHArZ9tLsuAw/1755283888/hls/46nTHn4k.m3u8
+#EXTINF:-1 tvg-id="CAM138" tvg-name="Los Narejos - Lima 1" tvg-logo="" group-title="Murcia",Los Narejos - Lima 1
+https://lon.rtsp.me/lb66WhZIPzepJ4p3n7bucg/1755284037/hls/hRFsE9tF.m3u8
+#EXTINF:-1 tvg-id="CAM139" tvg-name="Mar de Cristal" tvg-logo="" group-title="Murcia",Mar de Cristal
+https://lon.rtsp.me/w4OU-eO3SWzgawYCDi5lYw/1755284119/hls/EYKzHfET.m3u8
+#EXTINF:-1 tvg-id="CAM140" tvg-name="Bahia de Corralejo - Waikiki" tvg-logo="" group-title="Fuerteventura",Bahia de Corralejo - Waikiki
+https://cams.fuerteventuraplayas.com/live/wc05_waikiki/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM141" tvg-name="Corralejo El Campanario" tvg-logo="" group-title="Fuerteventura",Corralejo El Campanario
+https://cams.fuerteventuraplayas.com/live/stampalle_wc01/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM142" tvg-name="Hierro - Costa Norte" tvg-logo="" group-title="Fuerteventura",Hierro - Costa Norte
+https://cams.fuerteventuraplayas.com/live/wc03_st2506/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM143" tvg-name="El Cotillo Piedra Playa" tvg-logo="" group-title="Fuerteventura",El Cotillo Piedra Playa
+https://cams.fuerteventuraplayas.com/live/wc02_piedraplaya/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM144" tvg-name="Corralejo Rocky Point" tvg-logo="" group-title="Fuerteventura",Corralejo Rocky Point
+https://cams.fuerteventuraplayas.com/live/13rockypoint/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM145" tvg-name="Corralejo Bristol" tvg-logo="" group-title="Fuerteventura",Corralejo Bristol
+https://cams.fuerteventuraplayas.com/live/08bristol/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM146" tvg-name="Corralejo y Kite Beach - LineUp" tvg-logo="" group-title="Fuerteventura",Corralejo y Kite Beach - LineUp
+https://streaming.aranova.es/hls/live/lineup_canal1.m3u8
+#EXTINF:-1 tvg-id="CAM147" tvg-name="Majanicho - Costa Norte" tvg-logo="" group-title="Fuerteventura",Majanicho - Costa Norte
+https://cams.fuerteventuraplayas.com/live/majanicho/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM148" tvg-name="El Cotillo Vista al Mar" tvg-logo="" group-title="Fuerteventura",El Cotillo Vista al Mar
+https://cams.fuerteventuraplayas.com/live/cotillooceanview/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM149" tvg-name="El Cotillo La Concha" tvg-logo="" group-title="Fuerteventura",El Cotillo La Concha
+https://cams.fuerteventuraplayas.com/live/cotillo-la-concha/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM150" tvg-name="La Pared" tvg-logo="" group-title="Fuerteventura",La Pared
+https://cams.fuerteventuraplayas.com/live/16-la-pared/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM151" tvg-name="Bahia de Famara" tvg-logo="" group-title="Lanzarote",Bahia de Famara
+https://camsecure.uk/HLS/redstarsurf.m3u8
+#EXTINF:-1 tvg-id="CAM152" tvg-name="Mirador Haria" tvg-logo="" group-title="Lanzarote",Mirador Haria
+https://s76.ipcamlive.com/streams/4cn49fdwlbhvmqtsf/stream.m3u8
+#EXTINF:-1 tvg-id="CAM153" tvg-name="Playa de la Garita" tvg-logo="" group-title="Lanzarote",Playa de la Garita
+https://s64.ipcamlive.com/streams/40xze9pxyp4toevyk/stream.m3u8
+#EXTINF:-1 tvg-id="CAM154" tvg-name="El Medano" tvg-logo="" group-title="Tenerife",El Medano
+https://s21.ipcamlive.com/streams/15asrknbvjuwlpwvh/stream.m3u8
+#EXTINF:-1 tvg-id="CAM155" tvg-name="ANFI DEL MAR" tvg-logo="" group-title="Las Palmas",ANFI DEL MAR
+https://s147.ipcamlive.com/streams/93vmchlquc97nkwz8/stream.m3u8
+#EXTINF:-1 tvg-id="CAM156" tvg-name="ANFI DEL MAR 2" tvg-logo="" group-title="Las Palmas",ANFI DEL MAR 2
+https://s146.ipcamlive.com/streams/92tkxmj1me0iclfjk/stream.m3u8
+#EXTINF:-1 tvg-id="CAM157" tvg-name="Las Canteras - La Cicer" tvg-logo="" group-title="Las Palmas",Las Canteras - La Cicer
+https://stream.enhd.es/live/+PlayaDeLaCiser.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM158" tvg-name="Playa de Agaete" tvg-logo="" group-title="Las Palmas",Playa de Agaete
+https://camserver.agaete.net:8443/agaeteplaya/agaeteplaya/index.m3u8
+#EXTINF:-1 tvg-id="CAM159" tvg-name="Sardinar" tvg-logo="" group-title="Galdar",Sardinar
+http://195.77.177.91:8083/sardina.m3u8
+#EXTINF:-1 tvg-id="CAM160" tvg-name="Agujero" tvg-logo="" group-title="Galdar",Agujero
+http://195.77.177.91:8083/agujero.m3u8
+#EXTINF:-1 tvg-id="CAM161" tvg-name="Paseo Juan Aparicio" tvg-logo="" group-title="Torrevieja",Paseo Juan Aparicio
+https://s153.ipcamlive.com/streams/99n2oxuja71yehbpw/stream.m3u8
+#EXTINF:-1 tvg-id="CAM162" tvg-name="Playa del Cura" tvg-logo="" group-title="Torrevieja",Playa del Cura
+https://s146.ipcamlive.com/streams/92xkhckzq2pmhodzx/stream.m3u8
+#EXTINF:-1 tvg-id="CAM163" tvg-name="Hanalei Colony Resort" tvg-logo="" group-title="Hawaii",Hanalei Colony Resort
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.lkou93.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM164" tvg-name="Keauhou Bay, Hawaii" tvg-logo="" group-title="Hawaii",Keauhou Bay, Hawaii
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/relay01.bfwauv.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt23850.rc0.edge.basic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM165" tvg-name="Hanalei" tvg-logo="" group-title="Hawaii",Hanalei
+https://live.hdontap.com/hls/hosb4/ngrp:hanaleibay_ecco.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM166" tvg-name="Coruxo – Playa de O Vao – Toralla" tvg-logo="" group-title="Galicia",Coruxo – Playa de O Vao – Toralla (Vigo)
+https://lon.rtsp.me/6A4Wk6D3p3sXyflADMWzHg/1755290000/hls/nzed5TQn.m3u8
+#EXTINF:-1 tvg-id="CAM167" tvg-name="Waira Vigo" tvg-logo="" group-title="Galicia",Waira Vigo
+https://58f14c0895a20.streamlock.net/live/waira.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM168" tvg-name="Santander" tvg-logo="" group-title="Cantabria",Santander
+https://rs.tendsys.net/memfs/537aef45-283f-4368-bc01-571f940b82a8.m3u8
+#EXTINF:-1 tvg-id="CAM169" tvg-name="Santander 2" tvg-logo="" group-title="Cantabria",Santander 2
+https://rs.tendsys.net/memfs/cbd7149c-da18-479d-b33f-bed2bfdeeb66.m3u8
+#EXTINF:-1 tvg-id="CAM170" tvg-name="Loredo" tvg-logo="" group-title="Cantabria",Loredo
+https://rs.tendsys.net/memfs/5cda008d-82e0-4666-abf6-1d84db8e5538.m3u8
+#EXTINF:-1 tvg-id="CAM171" tvg-name="playa de Hondarribia" tvg-logo="" group-title="Pais Vasco",playa de Hondarribia
+https://58f14c0895a20.streamlock.net/camaramar/GIP_hondarribia_169.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM172" tvg-name="playa de la Zurriola en San Sebastian" tvg-logo="" group-title="Pais Vasco",playa de la Zurriola en San Sebastian
+https://58f14c0895a20.streamlock.net/camaramar/GIP_zurriola_169.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM173" tvg-name="playa de la Concha de San Sebastian" tvg-logo="" group-title="Pais Vasco",playa de la Concha de San Sebastian
+https://58f14c0895a20.streamlock.net/camaramar/GIP_kontxa_169.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM174" tvg-name="playa de Antilla de Orio" tvg-logo="" group-title="Pais Vasco",playa de Antilla de Orio
+https://58f14c0895a20.streamlock.net/camaramar/GIP_orio_169.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM175" tvg-name="playa de Zarautz" tvg-logo="" group-title="Pais Vasco",playa de Zarautz
+https://58f14c0895a20.streamlock.net/camaramar/GIP_zarautz_169.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM176" tvg-name="playa de Malkorbe en Getaria" tvg-logo="" group-title="Pais Vasco",playa de Malkorbe en Getaria
+https://58f14c0895a20.streamlock.net/camaramar/GIP_getaria_169.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM177" tvg-name="playa de Zumaia" tvg-logo="" group-title="Pais Vasco",playa de Zumaia
+https://58f14c0895a20.streamlock.net/camaramar/GIP_zumaia2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM178" tvg-name="playa de Deba" tvg-logo="" group-title="Pais Vasco",playa de Deba
+https://58f14c0895a20.streamlock.net/camaramar/GIP_deba_169.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM179" tvg-name="playa del puerto de Mutriku" tvg-logo="" group-title="Pais Vasco",playa del puerto de Mutriku
+https://58f14c0895a20.streamlock.net/camaramar/GIP_mutrikukaia_169.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM180" tvg-name="playa de Saturrarán en Mutriku" tvg-logo="" group-title="Pais Vasco",playa de Saturrarán en Mutriku
+https://58f14c0895a20.streamlock.net/camaramar/GIP_saturraran_169.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM181" tvg-name="abba San Sebastian" tvg-logo="" group-title="Pais Vasco",abba San Sebastian
+https://video.abbahoteles.com/es/5/master.m3u8
+#EXTINF:-1 tvg-id="CAM182" tvg-name="abba Gijon" tvg-logo="" group-title="Gijon",abba Gijon
+https://video.abbahoteles.com/es/2/master.m3u8
+#EXTINF:-1 tvg-id="CAM183" tvg-name="Sitges" tvg-logo="" group-title="Barcelona",Sitges
+https://s4.ipcamlive.com/streams/04wvrkbq0xnetns5y/stream.m3u8
+#EXTINF:-1 tvg-id="CAM184" tvg-name="Sagrada Familia" tvg-logo="" group-title="Barcelona",Sagrada Familia
+https://s154.ipcamlive.com/streams/9ahjyo16gvebk9pfw/stream.m3u8
+#EXTINF:-1 tvg-id="CAM185" tvg-name="Playa el Masnou" tvg-logo="" group-title="Barcelona",Playa el Masnou
+https://wow.camaramar.com/camaramar/63_masnou.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CAM186" tvg-name="Playa Las Arenas" tvg-logo="" group-title="Valencia",Playa Las Arenas
+https://streaming.comunitatvalenciana.com/webcam/ValenciaLasArenas/manifest.mpd
+#EXTINF:-1 tvg-id="CAM187" tvg-name="Playa De Levante" tvg-logo="" group-title="Alicante",Playa De Levante
+https://streaming.comunitatvalenciana.com/webcam/BenidormLevante/manifest.mpd
+#EXTINF:-1 tvg-id="CAM188" tvg-name="Peñiscola" tvg-logo="" group-title="Castellon",Peñiscola
+https://streaming.comunitatvalenciana.com/webcam/Penyiscola/manifest.mpd
+#EXTINF:-1 tvg-id="CAM189" tvg-name="Vinaros" tvg-logo="" group-title="Castellon",Vinaros
+https://streaming.comunitatvalenciana.com/webcam/Vinaros/manifest.mpd
+#EXTINF:-1 tvg-id="CAM190" tvg-name="Benicarlo" tvg-logo="" group-title="Castellon",Benicarlo
+https://streaming.comunitatvalenciana.com/webcam/Benicarlo/manifest.mpd
+#EXTINF:-1 tvg-id="CAM191" tvg-name="Alcala de Xivert / Alcossebre" tvg-logo="" group-title="Castellon",Alcala de Xivert / Alcossebre
+https://streaming.comunitatvalenciana.com/webcam/Alcossebre/manifest.mpd
+#EXTINF:-1 tvg-id="CAM192" tvg-name="Torreblanca" tvg-logo="" group-title="Castellon",Torreblanca
+https://streaming.comunitatvalenciana.com/webcam/Torreblanca/manifest.mpd
+#EXTINF:-1 tvg-id="CAM193" tvg-name="Oropesa del Mar" tvg-logo="" group-title="Castellon",Oropesa del Mar
+https://streaming.comunitatvalenciana.com/webcam/OropesadelMar/manifest.mpd
+#EXTINF:-1 tvg-id="CAM194" tvg-name="Benicassim Palasiet" tvg-logo="" group-title="Castellon",Benicassim Palasiet
+https://streaming.comunitatvalenciana.com/webcam/BenicassimPalasiet/manifest.mpd
+#EXTINF:-1 tvg-id="CAM195" tvg-name="Alboraya - Port Saplaya" tvg-logo="" group-title="Valencia",Alboraya - Port Saplaya
+https://streaming.comunitatvalenciana.com/webcam/AlborayaPortSaplaya/manifest.mpd
+#EXTINF:-1 tvg-id="CAM196" tvg-name="La Pobla de Farnals" tvg-logo="" group-title="Valencia",La Pobla de Farnals
+https://streaming.comunitatvalenciana.com/webcam/PobladeFarnals/manifest.mpd
+#EXTINF:-1 tvg-id="CAM197" tvg-name="Valencia Ciutat de les Arts y les Ciencies" tvg-logo="" group-title="Valencia",Valencia Ciutat de les Arts y les Ciencies
+https://streaming.comunitatvalenciana.com/webcam/ValenciaCiudadAyC/manifest.mpd
+#EXTINF:-1 tvg-id="CAM198" tvg-name="Arena-Bol" tvg-logo="" group-title="Calpe",Arena-Bol
+https://webcam-4.ibericam.com:5443/live/streams/calpe-playa-del-arenal-bol.m3u8
+#EXTINF:-1 tvg-id="CAM199" tvg-name="Alboraya Playa de la Patacona" tvg-logo="" group-title="Valencia",Alboraya Playa de la Patacona
+https://streaming.comunitatvalenciana.com/webcam/AlborayaPatacona/manifest.mpd
+#EXTINF:-1 tvg-id="CAM200" tvg-name="Valencia El Saler" tvg-logo="" group-title="Valencia",Valencia El Saler
+https://streaming.comunitatvalenciana.com/webcam/ElSaler/manifest.mpd
+#EXTINF:-1 tvg-id="CAM201" tvg-name="El Campello" tvg-logo="" group-title="Alicante",El Campello
+https://streaming.comunitatvalenciana.com/webcam/ElCampello/manifest.mpd
+#EXTINF:-1 tvg-id="CAM202" tvg-name="Alicante Puerto" tvg-logo="" group-title="Alicante",Alicante Puerto
+https://streaming.comunitatvalenciana.com/webcam/AlicantePuerto/manifest.mpd
+#EXTINF:-1 tvg-id="CAM203" tvg-name="ARENALES DEL SOL" tvg-logo="" group-title="Alicante",ARENALES DEL SOL
+https://s17.ipcamlive.com/streams/11cjyvo9wv8aptgfa/stream.m3u8
+#EXTINF:-1 tvg-id="CAM204" tvg-name="Club Windsurf Santa Pola" tvg-logo="" group-title="Alicante",Club Windsurf Santa Pola
+https://streaming.comunitatvalenciana.com/webcam/SantaPolaGranPlaya/manifest.mpd
+#EXTINF:-1 tvg-id="CAM205" tvg-name="Guardamar del Segura" tvg-logo="" group-title="Alicante",Guardamar del Segura
+https://streaming.comunitatvalenciana.com/webcam/GuardamardelSegura/manifest.mpd
+#EXTINF:-1 tvg-id="CAM206" tvg-name="El Cable y La Bajadilla" tvg-logo="" group-title="Marbella",El Cable y La Bajadilla
+https://livecam.meteo365.es/hls_live/marbella.m3u8
+#EXTINF:-1 tvg-id="CAM207" tvg-name="Playa de Son Serra de Marina" tvg-logo="" group-title="Mallorca",Playa de Son Serra de Marina
+https://edge04.balticlivecam.com/blc/p_ES_Son_Serra_de_Marina_Mallorca/index.m3u8?token=2ff8116fd685b98e9888fbc569f332ad:1755291135986
+#EXTINF:-1 tvg-id="CAM208" tvg-name="La Coruña Movil" tvg-logo="" group-title="Galicia",La Coruña Movil
+https://edge01.balticlivecam.com/blc/p_ES_A_Coruna/index.m3u8?token=6274e42f785af70fcef08096e2dec625:1755291236765
+#EXTINF:-1 tvg-id="CAM209" tvg-name="Nazare 1" tvg-logo="" group-title="Nazare",Nazare 1
+https://blob1.nazarewaves.com/memfs/32f6a35e-956f-4cd8-bf9a-8bfc89fa95c9.m3u8
+#EXTINF:-1 tvg-id="CAM210" tvg-name="Nazare 2" tvg-logo="" group-title="Nazare",Nazare 2
+https://blob3.nazarewaves.com/memfs/63e182da-4a23-439b-8e5d-715d17edeec7.m3u8
