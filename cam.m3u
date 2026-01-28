@@ -416,7 +416,7 @@ https://blob1.nazarewaves.com/memfs/32f6a35e-956f-4cd8-bf9a-8bfc89fa95c9.m3u8
 #EXTINF:-1 tvg-id="CAM210" tvg-name="Nazare 2" tvg-logo="" group-title="Nazare",Nazare 2
 https://blob3.nazarewaves.com/memfs/63e182da-4a23-439b-8e5d-715d17edeec7.m3u8
 #EXTINF:-1 tvg-id="CAM211" tvg-name="TEMP MANGA" tvg-logo="" group-title="Murcia",La Manga Temporal
-https://hd-auth.skylinewebcams.com/live.m3u8?a=j2l26v2rpm6qps1914jolqk713
+https://hd-auth.skylinewebcams.com/live.m3u8?a=fsh46hi5c0q6sf8vkidgom7315
 #EXTINF:-1 tvg-id="IT1" tvg-name="El piloto" tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/F4435831?od[]=Z1V:HBOMAX_V" group-title="It: Bienvenidos a Derry",El piloto
 https://cdn-6thw7b00uppejdtq.edgeon-bandwidth.com/engine/hls2/01/15671/t1nponqjb2jh_,n,.urlset/index-v1-a1.m3u8?t=bFUUV-zOaMJxs0iR3jiVwhFQhjwHDFiSNtxPcL3NMwI&s=1763246752&e=14400&f=78359426&node=Ho0pK0WwGhA6UnD2f032SGjD4NJlATNJF8MBAPqE67A=&i=87.222&sp=2500&asn=12479&q=n&rq=HJ3Y5nLeni81gWsxU8YR7FQPLMdBUXzM8PzV4rzz
 #EXTINF:-1 tvg-id="IT1" tvg-name="La cosa en la oscuridad" tvg-logo="https://www.movistarplus.es/recorte/n/caratula5/F4435831?od[]=Z1V:HBOMAX_V" group-title="It: Bienvenidos a Derry",La cosa en la oscuridad
@@ -439,6 +439,7 @@ https://localdevice.abrstream.tech:8443/1nfu73m025fn51b2lkx999gfy0/web/stream.mp
 https://dcb-de-livedazn.daznedge.net/1nfu73m025fn51b2lkx999gfy0/web/stream.mpd?channel=1956&outlet=dazn-spain&plang=es&dazn-token=tend%3A1763386508~geo%3AES~asn%3A12479_12715~path%3A1_1_791105cbe467c8a1f1f3fa5cc98aa1a470048d049a82e2774cb29858adbf050d~ua%3A3c9fc7ddec9b58823c1c96756dbd45d8~id%3A29ffe27ce84e~tk3%3A092ea10bfbdcfec965bae617f738e48844a5cc6686a7a11917b0a310da79bd90
 #EXTINF:-1 tvg-id="DZNDC3" tvg-name="Commanders @ Dolphins (en castellano)" tvg-logo="" group-title="DAZN",Commanders @ Dolphins (en castellano) (3)
 https://dcb-de-livedazn.daznedge.net/1nfu73m025fn51b2lkx999gfy0/web/stream.mpd?channel=1956&outlet=dazn-spain&plang=es&dazn-token=tend%3A1763386508~geo%3AES~asn%3A12479_12715~path%3A1_1_791105cbe467c8a1f1f3fa5cc98aa1a470048d049a82e2774cb29858adbf050d~ua%3A3c9fc7ddec9b58823c1c96756dbd45d8~id%3A29ffe27ce84e~tk3%3A092ea10bfbdcfec965bae617f738e48844a5cc6686a7a11917b0a310da79bd90
+
 
 
 
