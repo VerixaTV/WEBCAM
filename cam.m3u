@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CAM1" tvg-name="Venezoila La Manga" tvg-logo="" group-title="Murcia",Venezoila La Manga
+#EXTINF:-1,La Manga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:157.0) Gecko/20100101 Firefox/157.0
+#EXTVLCOPT:http-referrer=https://betweenseas.eu/
 https://webcam.lamanga.travel/hls/test.m3u8
 #EXTINF:-1 tvg-id="CAM2" tvg-name="Hotel Cavanna La Manga" tvg-logo="" group-title="Murcia",Hotel Cavanna La Manga
 https://lon.rtsp.me/GyFPylS7DMDh7zX66lHEAA/1721694939/hls/dGysFeYh.m3u8
